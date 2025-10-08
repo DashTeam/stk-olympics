@@ -1,0 +1,22 @@
+NORMAL RACE:
+
+- Number of players: Participating countries may have up to two registered players. If one of the players is unable to participate, a member of the national team may replace them.
+
+- Seeding Scheme:
+ I - Up to 9 registered players: Players will be in the same group;
+ II - Between 10-16 registered players: Players will be divided into two groups, each containing half the number of players (Example: With 13 players, Group A will have seven players and Group B will have six), and the top eight will compete in the final;
+ III - Between 17-32 registered players: Players will be divided into groups of eight (or six, depending on the case), and the top eight will compete in the final;
+ IV - Over 32 registered players: Players will be divided into groups of eight, and the top sixteen will advance to the semifinals. They will be divided into two groups, and the top four from each group will compete in the final.
+
+SECTION - If the number of players is not a power of 2 or is not 18 or 24 (from 17 players): These "extra" players will be redistributed as best as possible.
+
+- Matches
+ I - Matches before the semi-final: These will be GPs of 10 races each, and each player's score and time will be included in a general ranking that will determine the eight (or sixteen) players for the semi-final;
+ II - Semifinals: These will be GPs of 12 races each, and the top four will qualify for the final;
+ III - Finals: This will be a single GP of 15 races, with medals already awarded;
+ IV - Scoring and power-ups: In all matches, the game's own score will be used, without the use of power-ups (to mitigate the risk of luck).
+ V - Tracks: Will be used the standard tracks (normal and reverse direction).
+
+- Ranking
+ I - After the first matchs, the player's pontuation and time will be included in a ranking;
+ II - Tiebreaker criteria: The first criteria will be the one with the most points, and the next will be the one with the shortest time; if there is still a tie, the criteria will be his name.
