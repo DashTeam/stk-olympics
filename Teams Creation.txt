@@ -1,0 +1,20 @@
+TEAMS CREATION
+
+NUMBER OF PLAYERS:
+ I - A team can have from only one player to 15 players (minimum of 4 players to participate in all sports).
+ II - Reference:
+      1 player for bowling, FFA and/or hide and seek
+      1-2 players for jumptrack and/or racing
+      2-4 players for CTF and/or soccer
+      (Endurance will be the best player of racing)
+      (Speedrun will be open for all)
+      ----------------------------------------------
+      Maximum of (1 x 3) + (2 x 2) + (4 x 2) = 15 players
+
+SUBSCRIPTIONS:
+ I - Before the games, a subscription website will be open, but a country can do only ONE subscription;
+ II - Each contry will have a captain (generally the most "famous" player of this country) that will subscribe the country.
+ III - The captain can enroll players using one or more of this method:
+  - Direct talk with the player;
+  - Open a subscription form on Google or MS and send it on Reddit or Discord.
+  - (WIP)
